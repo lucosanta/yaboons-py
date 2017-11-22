@@ -1,3 +1,3 @@
-# Yet Another Boolean Network Simulator
+# YABOONS - Yet Another BOOlean Network Simulator
 
 ## Description
